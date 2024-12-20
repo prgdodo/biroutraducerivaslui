@@ -1,0 +1,23 @@
+.top-bar p{
+    display:inline-block;
+    margin-right:100px;
+    text-align:center;
+    margin-left:290px;
+    font-size:1.2rem;
+    position:relative;
+    bottom:10px;
+}
+.blue{
+    background-color:skyblue;
+}
+body{
+    font-family:"Inter", serif;
+}
+.top-bar{
+    background-color:gray;
+    height:50px;
+    position:relative;
+}
+.background-image{
+    z-index = -1;
+}
